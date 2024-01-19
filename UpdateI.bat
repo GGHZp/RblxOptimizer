@@ -1,5 +1,5 @@
 @echo off
 cd %temp%
 cd "ROTWTemp"
-echo 0.2 > ROTWUpdate
-exit
+echo 0.2 > ROTWUpdateVer.txt
+goto :EOF
