@@ -1,5 +1,5 @@
 @echo off
-cd %temp%
-cd "ROTWETemp"
+
+cd "%localappdata%\temp\ROTWETemp"
 echo 0.2 > ROTWUpdateVer.txt
 goto :EOF
